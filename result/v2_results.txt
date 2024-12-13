@@ -1,0 +1,32 @@
+> Evaluating IsoForest
+>> LOCALIZED >> Algo: IsoForest | Silo: NF-BoT-IoT-v2 | F1-Score: 0.0074, Accuracy: 0.1367, Precision: 0.0037, Recall: 0.8403
+Trained on NF-BoT-IoT-v2 evaluated on NF-ToN-IoT-v2 >> F1-Score: 0.7715, Accuracy: 0.6288, Precision: 0.6441, Recall: 0.9618
+>> LOCALIZED >> Algo: IsoForest | Silo: NF-ToN-IoT-v2 | F1-Score: 0.9489, Accuracy: 0.9361, Precision: 0.9925, Recall: 0.9089
+Trained on NF-ToN-IoT-v2 evaluated on NF-BoT-IoT-v2 >> F1-Score: 0.0610, Accuracy: 0.9959, Precision: 0.2500, Recall: 0.0347
+>> Average Local Performance for IsoForest - F1-score: 0.4781 ¡À 0.4707, Accuracy: 0.5364 ¡À 0.3997, Precision: 0.4981 ¡À 0.4944, Recall: 0.8746 ¡À 0.0343
+>> Average Cross Performance for IsoForest - F1-score: 0.4162 ¡À 0.3553, Accuracy: 0.8123 ¡À 0.1836, Precision: 0.4470 ¡À 0.1970, Recall: 0.4983 ¡À 0.4635
+
+> Evaluating LOF
+>> LOCALIZED >> Algo: LOF | Silo: NF-BoT-IoT-v2 | F1-Score: 0.0167, Accuracy: 0.6453, Precision: 0.0085, Recall: 0.7917
+Trained on NF-BoT-IoT-v2 evaluated on NF-ToN-IoT-v2 >> F1-Score: 0.0085, Accuracy: 0.3480, Precision: 0.4732, Recall: 0.0043
+>> LOCALIZED >> Algo: LOF | Silo: NF-ToN-IoT-v2 | F1-Score: 0.9966, Accuracy: 0.9956, Precision: 0.9987, Recall: 0.9944
+Trained on NF-ToN-IoT-v2 evaluated on NF-BoT-IoT-v2 >> F1-Score: 0.0408, Accuracy: 0.9963, Precision: 1.0000, Recall: 0.0208
+>> Average Local Performance for LOF - F1-score: 0.5067 ¡À 0.4899, Accuracy: 0.8204 ¡À 0.1751, Precision: 0.5036 ¡À 0.4951, Recall: 0.8931 ¡À 0.1014
+>> Average Cross Performance for LOF - F1-score: 0.0247 ¡À 0.0161, Accuracy: 0.6721 ¡À 0.3241, Precision: 0.7366 ¡À 0.2634, Recall: 0.0126 ¡À 0.0083
+
+> Evaluating DeepAE
+>> LOCALIZED >> Algo: DeepAE | Silo: NF-BoT-IoT-v2 | F1-Score: 0.0464, Accuracy: 0.0272, Precision: 0.9857, Recall: 0.0238
+Trained on NF-BoT-IoT-v2 evaluated on NF-ToN-IoT-v2 >> F1-Score: 0.5331, Accuracy: 0.4483, Precision: 0.3780, Recall: 0.9042
+>> LOCALIZED >> Algo: DeepAE | Silo: NF-ToN-IoT-v2 | F1-Score: 0.0464, Accuracy: 0.6248, Precision: 0.2025, Recall: 0.0262
+Trained on NF-ToN-IoT-v2 evaluated on NF-BoT-IoT-v2 >> F1-Score: 0.9978, Accuracy: 0.9957, Precision: 0.9964, Recall: 0.9993
+>> Average Local Performance for DeepAE - F1-score: 0.0464 ¡À 0.0000, Accuracy: 0.3260 ¡À 0.2988, Precision: 0.5941 ¡À 0.3916, Recall: 0.0250 ¡À 0.0012
+>> Average Cross Performance for DeepAE - F1-score: 0.7655 ¡À 0.2324, Accuracy: 0.7220 ¡À 0.2737, Precision: 0.6872 ¡À 0.3092, Recall: 0.9517 ¡À 0.0475
+
+> Evaluating EFC
+>> LOCALIZED >> Algo: EFC | Silo: NF-BoT-IoT-v2 | F1-Score: 0.9730, Accuracy: 0.9477, Precision: 0.9997, Recall: 0.9478
+Trained on NF-BoT-IoT-v2 evaluated on NF-ToN-IoT-v2 >> F1-Score: 0.5167, Accuracy: 0.3483, Precision: 0.3483, Recall: 0.9999
+>> LOCALIZED >> Algo: EFC | Silo: NF-ToN-IoT-v2 | F1-Score: 0.9455, Accuracy: 0.9601, Precision: 0.9012, Recall: 0.9945
+Trained on NF-ToN-IoT-v2 evaluated on NF-BoT-IoT-v2 >> F1-Score: 0.9981, Accuracy: 0.9962, Precision: 0.9962, Recall: 1.0000
+>> Average Local Performance for EFC - F1-score: 0.9593 ¡À 0.0137, Accuracy: 0.9539 ¡À 0.0062, Precision: 0.9504 ¡À 0.0492, Recall: 0.9711 ¡À 0.0233
+>> Average Cross Performance for EFC - F1-score: 0.7574 ¡À 0.2407, Accuracy: 0.6723 ¡À 0.3239, Precision: 0.6723 ¡À 0.3239, Recall: 1.0000 ¡À 0.0000
+

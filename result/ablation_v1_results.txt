@@ -1,0 +1,24 @@
+Number of agents: 1
+Average Accuracy: 0.9858
+Average Precision: 0.9858
+Average Recall: 0.9998
+Average F1-score: 0.9928
+
+Number of agents: 2
+Average Accuracy: 0.9126
+Average Precision: 0.9124
+Average Recall: 0.9952
+Average F1-score: 0.9506
+
+Number of agents: 3
+Average Accuracy: 0.9138
+Average Precision: 0.9134
+Average Recall: 0.9952
+Average F1-score: 0.9512
+
+Number of agents: 4
+Average Accuracy: 0.9150
+Average Precision: 0.9145
+Average Recall: 0.9951
+Average F1-score: 0.9518
+

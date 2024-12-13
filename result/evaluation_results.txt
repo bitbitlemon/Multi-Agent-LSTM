@@ -1,0 +1,2 @@
+> Evaluating IsoForest
+>> LOCALIZED >> Algo: IsoForest | Silo: NF-BoT-IoT-v2 | Accuracy: 0.6053 | Precision: 0.0079 | Recall: 0.8803 | F1-Score: 0.0156
